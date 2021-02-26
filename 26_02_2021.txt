@@ -1,4 +1,3 @@
 - vay me: 700tr
-- trang: 100tr
-- me gui: 130tr
 - luong: 100tr
+- cua me: 1ty 71 tr:
